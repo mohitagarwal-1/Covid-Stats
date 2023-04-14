@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+} 
+h1{
+    margin-top: 50px !important;
+    margin-bottom: 10px !important;
+    background-color: lightseagreen;
+    border-radius: 5px;
+    color: rgb(233, 222, 222);
+}
+
+thead{
+    
+    color: lightblue;
+}
